@@ -21,7 +21,7 @@ Dieses Projekt bietet Python-Skripte zur Konstantlichtregelung und Tageslichtste
 3. Kopiere den gesamten Ordner auf den unbeschriebenen RaspberryPi Pico W
 
 ## Verwendung
-- Die Skript ekönnen mithilfe einer IDE ausgeführt werden.
+- Die Skripte können mithilfe einer IDE ausgeführt werden.
 - Das gewünschte Skript kann in code.py umbenannt werden. Dieses wird beim nächsten Mal automatisch eingeschaltet.
 
 ## Konstantlichtregelung.py
