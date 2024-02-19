@@ -10,7 +10,6 @@ Dieses Projekt bietet Python-Skripte zur Konstantlichtregelung und Tageslichtste
 - [Konstantlichtregelung.py](#konstantlichtregelungpy)
 - [Tageslichtsteuerung.py](#tageslichtsteuerungpy)
 - [Mitwirkende](#mitwirkende)
-- [Lizenz](#lizenz)
 
 ## Voraussetzungen
 - RaspberryPi Pico W mit Circuitpython
